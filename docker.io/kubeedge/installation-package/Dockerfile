@@ -1,1 +1,1 @@
-from docker.io/kubeedge/installation-package:v1.12.1
+from docker.io/kubeedge/installation-package:v1.13.0
