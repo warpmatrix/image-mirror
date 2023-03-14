@@ -1,1 +1,1 @@
-from openwhisk/ow-utils:1.0.0
+from openwhisk/ow-utils:c5970a6
