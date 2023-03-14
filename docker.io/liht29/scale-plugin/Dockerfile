@@ -1,0 +1,1 @@
+from docker.io/liht29/scale-plugin:latest
